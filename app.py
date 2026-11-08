@@ -1,5 +1,5 @@
 """
-Spotify Music Popularity Predictor - Streamlit Application
+Music Popularity Predictor - Streamlit Application
 Developer: Rakesh Kumar
 
 A professional commercial-grade AI web application that predicts song popularity score (0-100)
@@ -80,7 +80,7 @@ DEFAULT_VALUES = {
 # ==============================================================================
 
 st.set_page_config(
-    page_title="Spotify Music Popularity Predictor",
+    page_title="Music Popularity Predictor",
     page_icon="🎵",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1230,7 +1230,7 @@ def main():
     st.markdown(
         f"""
         <div class="footer-container">
-            <p style="font-weight: 700; color: #FFFFFF; font-size: 1rem; margin-bottom: 6px;">Spotify Music Popularity Predictor</p>
+            <p style="font-weight: 700; color: #FFFFFF; font-size: 1rem; margin-bottom: 6px;">Music Popularity Predictor</p>
             <p>Built using <span class="footer-highlight">Machine Learning</span> | Random Forest Regression | Scikit-learn | Streamlit</p>
             <p style="font-size: 0.88rem; color: #1DB954; font-weight: 600; margin-top: 4px;">Developer: {DEVELOPER_NAME}</p>
             <p style="font-size: 0.78rem; color: #777777;">Educational Purpose Only</p>

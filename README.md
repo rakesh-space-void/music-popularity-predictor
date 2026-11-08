@@ -1,4 +1,4 @@
-# Spotify Music Popularity Predictor 🎵
+# Music Popularity Predictor 🎵
 
 A machine learning project that predicts an estimated Spotify popularity score (0–100) using 13 audio features. The project uses a **Random Forest Regressor** and a **Streamlit web application** to make predictions through a simple, interactive interface.
 
