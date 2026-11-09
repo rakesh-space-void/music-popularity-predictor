@@ -13,7 +13,7 @@ A machine learning project that predicts an estimated Spotify popularity score (
 ## Project Structure
 
 ```text
-spotify_music_popularity_predictor/
+music_popularity_predictor/
 ├── app.py
 ├── data/
 │   └── spotify_data.csv
